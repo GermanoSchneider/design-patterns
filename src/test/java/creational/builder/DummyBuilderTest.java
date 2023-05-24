@@ -1,13 +1,13 @@
-package creational;
+package creational.builder;
 
 import org.junit.jupiter.api.Test;
 
-import static creational.Dummy.DummyBuilder;
+import static creational.builder.Dummy.DummyBuilder;
 import static java.util.stream.IntStream.range;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
-class BuilderTest {
+class DummyBuilderTest {
 
     @Test
     void shouldCreateAnObjectWithAllFields() {
