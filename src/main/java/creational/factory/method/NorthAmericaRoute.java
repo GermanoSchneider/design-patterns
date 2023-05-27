@@ -1,9 +1,9 @@
-package creational.factory.factoryMethod;
+package creational.factory.method;
 
 import java.util.Collection;
 import java.util.List;
 
-import static creational.factory.factoryMethod.Country.*;
+import static creational.factory.method.Country.*;
 
 class NorthAmericaRoute extends Route {
 

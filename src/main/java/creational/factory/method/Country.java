@@ -1,4 +1,4 @@
-package creational.factory.factoryMethod;
+package creational.factory.method;
 
 public enum Country {
     BRAZIL,

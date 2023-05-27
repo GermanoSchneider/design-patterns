@@ -1,4 +1,4 @@
-package creational.factory.factoryMethod;
+package creational.factory.method;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
