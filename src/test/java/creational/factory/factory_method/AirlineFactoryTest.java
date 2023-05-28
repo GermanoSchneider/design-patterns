@@ -1,4 +1,4 @@
-package creational.factory.method;
+package creational.factory.factory_method;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-class AirlineTest {
+class AirlineFactoryTest {
 
     private Airline airline;
 

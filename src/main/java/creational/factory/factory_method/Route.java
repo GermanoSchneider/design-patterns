@@ -1,4 +1,4 @@
-package creational.factory.method;
+package creational.factory.factory_method;
 
 import java.util.Collection;
 
