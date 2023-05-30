@@ -1,6 +1,6 @@
 # Design Patterns
 
-How to implement design patterns using Java.
+Learn from simple examples how to implement design patterns using Java.
 
 ## Execute
 ```bash
